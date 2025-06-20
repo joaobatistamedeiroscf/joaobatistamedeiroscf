@@ -7,7 +7,8 @@
 
 ## 👨‍💻 Computer Science Student
 
-🎓 I'm João Batista, a passionate Computer Science student always looking to learn new technologies and build innovative solutions.
+🎓 I'm João Batista, an undergraduate Computer Science student always seeking to learn new technologies and build innovative solutions.
+
 
 ---
 
