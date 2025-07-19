@@ -15,7 +15,7 @@
 ### 📊 João Batista's GitHub Stats
 ![João Batista's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaobatistamedeiroscf&show_icons=true&theme=radical&hide_title=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobatistamedeiroscf&layout=compact&theme=radical)  <img align="right" height="150" src="https://i.gifer.com/9Wmb.gif"  />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobatistamedeiroscf&layout=compact&theme=radical)  
 
 
 ---
